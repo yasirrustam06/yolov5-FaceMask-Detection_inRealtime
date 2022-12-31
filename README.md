@@ -6,7 +6,7 @@
 
 # steps you can follow to set up and run mask detection using YOLOv5:
   1. Upload the mask dataset to your googe drive
-  2. clone the yolov5 repository as it all the things are mentioned in the code in my repo..
+  2. clone the yolov5 repository as it all the things are mentioned in the code in my repo:
   3. after clonning complete , there will be data folder inside yolov5 folder just upload the..( dataset.yaml file >> gievn in my repo.).. to data folder..
      as shown in the screen shot below...
   
