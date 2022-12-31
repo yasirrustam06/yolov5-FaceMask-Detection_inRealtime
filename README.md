@@ -17,3 +17,8 @@
 
 ### colab link: https://drive.google.com/file/d/1n81zzbMWlfxk7ogHs6hHVQLNteI1Vb6h/view?usp=share_link
 
+# Results: 
+
+![val_batch1_pred (3)](https://user-images.githubusercontent.com/98689629/210136439-289571b3-75d1-46ee-9658-a01ede542f38.jpg)
+
+
